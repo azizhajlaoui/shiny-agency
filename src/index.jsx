@@ -1,1 +1,0 @@
-<Route path="/survey/:questionNumber" element={<Survey />} />
